@@ -1,0 +1,1 @@
+Este programa calcula a porcentagem de participação de cada estado em um faturamento total com base em uma lista de valores fornecidos. Ele exibe a contribuição percentual de cada estado de forma clara e organizada, sendo uma ótima aplicação para praticar manipulação de dados, cálculos percentuais e formatação de saída em Python.
